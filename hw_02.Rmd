@@ -1,0 +1,53 @@
+---
+title: "Homework 2"
+author: "Team name: member 1, member 2, member 3, ..."
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment = NA)
+```
+
+## The <fill in class name> class
+
+### Class
+
+Text for Task 6 goes here...
+
+### Methods
+
+Text for Task 6 goes here...
+
+<br/>
+
+## Class construction
+
+**Constructor**
+
+```{r constructor}
+
+```
+
+**Validator**
+
+```{r validator}
+
+```
+
+
+**Helper**
+
+```{r helper}
+
+```
+
+
+## Methods
+
+
+
+## Examples
+
+
+
